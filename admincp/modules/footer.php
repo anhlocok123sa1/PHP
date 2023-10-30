@@ -1,0 +1,1 @@
+<h3>Footer admincp</h3>

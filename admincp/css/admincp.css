@@ -1,0 +1,13 @@
+.admincp-list {
+    display: flex;
+}
+
+.admincp-list li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+.admincp-list li a {
+    text-decoration: none;
+    color: blue;
+}
